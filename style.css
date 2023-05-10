@@ -128,7 +128,9 @@
 .footer{
     display: block;
     background-color: #F2F2F2;
-    margin-top: 249px;
+    position: fixed;
+    bottom: 0   ;
+    width: 100%;
 }
 .footer>p{
     height: 35px;
